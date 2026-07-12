@@ -1,0 +1,8 @@
+scapy
+customtkinter
+matplotlib
+pillow
+pytest
+pyinstaller
+rich          # optional: colorized output for the CLI frontend (main_cli.py)
+pyfiglet      # optional: ASCII-art title in the CLI welcome banner
