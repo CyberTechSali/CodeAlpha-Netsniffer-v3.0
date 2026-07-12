@@ -166,9 +166,6 @@ sudo python3 main_cli.py --help       # all options
 
 ## 📸 Screenshots
 
-<details>
-<summary>Click to expand screenshots</summary>
-
 ### GUI — Main Dashboard
 <p align="center">
   <img src="docs/screenshot/dashboard.png" alt="Main Interface" width="800"/>
@@ -188,8 +185,6 @@ sudo python3 main_cli.py --help       # all options
 <p align="center">
   <img src="docs/screenshot/exports.png" alt="Exports & Stats" width="800"/>
 </p>
-
-</details>
 
 ---
 
