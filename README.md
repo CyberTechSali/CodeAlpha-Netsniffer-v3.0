@@ -1,5 +1,4 @@
-# CodeAlpha-Netsniffer-v3.0
-# 🛡️ NetSniffer Pro — Modern Network Analyzer
+# 🛡️ NetSniffer Pro V3.0 — Modern Network Analyzer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
