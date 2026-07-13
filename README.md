@@ -1,5 +1,9 @@
-  # NetSniffer Pro V3.0 — Modern Network Analyzer
+<p align="center">
+  <img src="netsniffer/assets/screenshots/LOGOO.png" width="120" alt="NetSniffer Pro logo">
+</p>
 
+<h1 align="center">NetSniffer Pro</h1>
+<p align="center"><b>V3.0 — Modern Network Analyzer</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -7,14 +11,21 @@
   <img src="https://img.shields.io/badge/CustomTkinter-5.0+-1F6FEB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
+
 <p align="center">
-  <img src="netsniffer/assets/screenshots/LOGOO.png" width="350" alt="NetSniffer Pro logo">
+  A dark-themed network packet sniffer with real-time capture, protocol analysis, and export capabilities —
+  available as both a desktop GUI and a terminal CLI, sharing one core engine.
 </p>
 
 <p align="center">
-  <b>A dark-themed network packet sniffer with real-time capture, protocol analysis, and export capabilities —
-  available as both a desktop GUI and a terminal CLI, sharing one core engine.</b>
+  <a href="#-features">Features</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="#-usage">Usage</a> •
+  <a href="#-screenshots">Screenshots</a> •
+  <a href="#-license">License</a>
 </p>
+
+---
 
 
 
