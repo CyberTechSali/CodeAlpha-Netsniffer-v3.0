@@ -1,6 +1,10 @@
 # NetSniffer Pro V3.0 — Modern Network Analyzer
 
 <p align="center">
+  <img src="netsniffer/assets/screenshots/LOGOO.png" width="350" alt="NetSniffer Pro logo">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scapy-2.5+-2C2D72?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/CustomTkinter-5.0+-1F6FEB?style=for-the-badge&logo=python&logoColor=white" />
@@ -12,9 +16,6 @@
   available as both a desktop GUI and a terminal CLI, sharing one core engine.</b>
 </p>
 
-<p align="center">
-  <img src="netsniffer/assets/screenshots/LOGOO.png" width="350" alt="NetSniffer Pro logo">
-</p>
 
 
 ## 📋 Table of Contents
