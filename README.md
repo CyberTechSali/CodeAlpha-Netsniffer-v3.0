@@ -167,23 +167,34 @@ sudo python3 main_cli.py --help       # all options
 
 ### GUI — Main Dashboard
 <p align="center">
-  <img src="docs/screenshot/dashboard.png" alt="Main Interface" width="800"/>
+  <img src="netsniffer/assets/screenshots/Dashbord gui.jpeg" alt="Main Interface" width="800"/>
 </p>
 
 ### Packet Details & Hex Dump
 <p align="center">
-  <img src="docs/screenshot/packet-details.png" alt="Packet Details" width="800"/>
+  <img src="netsniffer/assets/screenshots/details.jpeg" alt="Packet Details" width="800"/>
+</p>
+
+<p align="center">
+  <img src="netsniffer/assets/screenshots/hex.jpeg" alt="Packet Details" width="800"/>
 </p>
 
 ### CLI — Welcome Banner & Live Capture
 <p align="center">
-  <img src="docs/screenshot/cli-banner.png" alt="CLI banner" width="800"/>
+  <img src="netsniffer/assets/screenshots/cli banner.jpeg" alt="CLI banner" width="800"/>
 </p>
 
 ### Exports & Session Summary
 <p align="center">
-  <img src="docs/screenshot/exports.png" alt="Exports & Stats" width="800"/>
+  <img src="netsniffer/assets/screenshots/export.jpeg" alt="Exports & Stats" width="800"/>
 </p>
+<p align="center">
+  <img src="netsniffer/assets/screenshots/message export.jpeg" alt="Exports & Stats" width="800"/>
+</p>
+<p align="center">
+  <img src="netsniffer/assets/screenshots/traffic+summary session cli.jpeg" alt="Exports & Stats" width="800"/>
+</p>
+
 
 ---
 
