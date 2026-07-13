@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="netsniffer/assets/screenshots/LOGOO.png" width="120" alt="NetSniffer Pro logo">
+  <img src="netsniffer/assets/screenshots/LOGOO.png" width="420" alt="NetSniffer Pro logo">
 </p>
 
 <h1 align="center">NetSniffer Pro</h1>
