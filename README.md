@@ -171,7 +171,7 @@ sudo python3 main_cli.py --help       # all options
 **GUI — Main Dashboard & Live Charts**<br>
 Real-time stats cards, live packet table, packets/sec and protocol distribution charts.
 
-<img src="assets/screenshots/dashboard.jpeg" alt="Main GUI dashboard with live charts" width="100%"/>
+<img src="netsniffer/assets/screenshots/Dashbord gui.jpeg" alt="Main GUI dashboard with live charts" width="100%"/>
 
 </td>
 <td width="50%">
@@ -179,7 +179,7 @@ Real-time stats cards, live packet table, packets/sec and protocol distribution 
 **Payload — Statistical Analysis**<br>
 Payload size, printable-character ratio, Shannon entropy, and suspected nature.
 
-<img src="assets/screenshots/payload-analysis.jpeg" alt="Payload statistical analysis tab" width="100%"/>
+<img src="netsniffer/assets/screenshots/details.jpeg" alt="Payload statistical analysis tab" width="100%"/>
 
 </td>
 </tr>
@@ -189,7 +189,7 @@ Payload size, printable-character ratio, Shannon entropy, and suspected nature.
 **Payload — Hex Dump**<br>
 Raw bytes of the selected packet, offset + hex + ASCII columns.
 
-<img src="assets/screenshots/hex-dump.jpeg" alt="Payload hex dump tab" width="100%"/>
+<img src="netsniffer/assets/screenshots/hex.jpeg" alt="Payload hex dump tab" width="100%"/>
 
 </td>
 <td width="50%">
@@ -197,7 +197,7 @@ Raw bytes of the selected packet, offset + hex + ASCII columns.
 **Export — CSV & PCAP**<br>
 One-click export to CSV or Wireshark-compatible PCAP, with a live session summary.
 
-<img src="assets/screenshots/export-pcap.jpeg" alt="Export tab with PCAP save dialog" width="100%"/>
+<img src="netsniffer/assets/screenshots/export.jpeg" alt="Export tab with PCAP save dialog" width="100%"/>
 
 </td>
 </tr>
@@ -207,20 +207,29 @@ One-click export to CSV or Wireshark-compatible PCAP, with a live session summar
 **Export — Success Confirmation**<br>
 Themed confirmation dialog once the export completes.
 
-<img src="assets/screenshots/export-success.jpeg" alt="Export success confirmation" width="100%"/>
+<img src="netsniffer/assets/screenshots/message export.jpeg" alt="Export success confirmation" width="100%"/>
 
 </td>
 <td width="50%">
 
-**CLI — Session Summary**<br>
-Same capture engine as the GUI: live terminal feed, per-protocol count on exit.
+**CLI — Welcome Banner**<br>
+Centered, boxed welcome screen shown once at startup: name, author, version, engine.
 
-<img src="assets/screenshots/cli-session-summary.jpeg" alt="CLI session summary table" width="100%"/>
+<img src="" alt="CLI welcome banner" width="netsniffer/assets/screenshots/cli banner.jpeg100%"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**CLI — Live Capture & Session Summary**<br>
+Same capture engine as the GUI, rendered in the terminal: live packet feed, then a per-protocol count summary on exit (Ctrl+C).
+
+<img src="netsniffer/assets/screenshots/traffic+summary session cli.jpeg" alt="CLI session summary table" width="100%"/>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📁 Project Structure
