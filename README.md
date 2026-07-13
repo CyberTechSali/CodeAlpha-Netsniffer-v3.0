@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="netsniffer/assets/screenshots/LOGOO.png" width="250" alt="NetSniffer Pro logo">
+  <img src="netsniffer/assets/screenshots/LOGOO.png" width="350" alt="NetSniffer Pro logo">
 </p>
 
 
