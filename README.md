@@ -215,7 +215,7 @@ Themed confirmation dialog once the export completes.
 **CLI — Welcome Banner**<br>
 Centered, boxed welcome screen shown once at startup: name, author, version, engine.
 
-<img src="" alt="CLI welcome banner" width="netsniffer/assets/screenshots/cli banner.jpeg100%"/>
+<img src="netsniffer/assets/screenshots/cli banner.jpeg" alt="CLI welcome banner" width="100%"/>
 
 </td>
 </tr>
