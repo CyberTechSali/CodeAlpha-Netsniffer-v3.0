@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="netsniffer/assets/screenshots/LOGOO.png" width="420" alt="NetSniffer Pro logo">
+  <img src="netsniffer/assets/screenshots/LOGOO.png" width="520" alt="NetSniffer Pro logo">
 </p>
 
 <h1 align="center">NetSniffer Pro</h1>
@@ -16,17 +16,6 @@
   A dark-themed network packet sniffer with real-time capture, protocol analysis, and export capabilities —
   available as both a desktop GUI and a terminal CLI, sharing one core engine.
 </p>
-
-<p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-usage">Usage</a> •
-  <a href="#-screenshots">Screenshots</a> •
-  <a href="#-license">License</a>
-</p>
-
----
-
 
 
 ## 📋 Table of Contents
