@@ -13,9 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="netsniffer/assets/screenshots/LOGO.jpeg" alt="NetSniffer Pro Main Interface" width="850"/>
+  <img src="netsniffer/assets/screenshots/LOGOO.png" width="100" alt="NetSniffer Pro logo">
 </p>
-
 ---
 
 ## 📋 Table of Contents
@@ -165,36 +164,62 @@ sudo python3 main_cli.py --help       # all options
 
 ## 📸 Screenshots
 
-### GUI — Main Dashboard
-<p align="center">
-  <img src="netsniffer/assets/screenshots/Dashbord gui.jpeg" alt="Main Interface" width="800"/>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-### Packet Details & Hex Dump
-<p align="center">
-  <img src="netsniffer/assets/screenshots/details.jpeg" alt="Packet Details" width="800"/>
-</p>
+**GUI — Main Dashboard & Live Charts**<br>
+Real-time stats cards, live packet table, packets/sec and protocol distribution charts.
 
-<p align="center">
-  <img src="netsniffer/assets/screenshots/hex.jpeg" alt="Packet Details" width="800"/>
-</p>
+<img src="assets/screenshots/dashboard.jpeg" alt="Main GUI dashboard with live charts" width="100%"/>
 
-### CLI — Welcome Banner & Live Capture
-<p align="center">
-  <img src="netsniffer/assets/screenshots/cli banner.jpeg" alt="CLI banner" width="800"/>
-</p>
+</td>
+<td width="50%">
 
-### Exports & Session Summary
-<p align="center">
-  <img src="netsniffer/assets/screenshots/export.jpeg" alt="Exports & Stats" width="800"/>
-</p>
-<p align="center">
-  <img src="netsniffer/assets/screenshots/message export.jpeg" alt="Exports & Stats" width="800"/>
-</p>
-<p align="center">
-  <img src="netsniffer/assets/screenshots/traffic+summary session cli.jpeg" alt="Exports & Stats" width="800"/>
-</p>
+**Payload — Statistical Analysis**<br>
+Payload size, printable-character ratio, Shannon entropy, and suspected nature.
 
+<img src="assets/screenshots/payload-analysis.jpeg" alt="Payload statistical analysis tab" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Payload — Hex Dump**<br>
+Raw bytes of the selected packet, offset + hex + ASCII columns.
+
+<img src="assets/screenshots/hex-dump.jpeg" alt="Payload hex dump tab" width="100%"/>
+
+</td>
+<td width="50%">
+
+**Export — CSV & PCAP**<br>
+One-click export to CSV or Wireshark-compatible PCAP, with a live session summary.
+
+<img src="assets/screenshots/export-pcap.jpeg" alt="Export tab with PCAP save dialog" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Export — Success Confirmation**<br>
+Themed confirmation dialog once the export completes.
+
+<img src="assets/screenshots/export-success.jpeg" alt="Export success confirmation" width="100%"/>
+
+</td>
+<td width="50%">
+
+**CLI — Session Summary**<br>
+Same capture engine as the GUI: live terminal feed, per-protocol count on exit.
+
+<img src="assets/screenshots/cli-session-summary.jpeg" alt="CLI session summary table" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
